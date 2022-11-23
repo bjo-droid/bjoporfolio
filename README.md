@@ -1,2 +1,2 @@
 # bjoporfolio
-React hobby project (nextjs+tailwind)
+React testing nextjs with tailwind css
