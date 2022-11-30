@@ -87,6 +87,7 @@ export default function Home() {
               <p className="text-gray-800 py-1">Illustrator</p>
               <p className="text-gray-800 py-1">Adobe XD</p>
               <p className="text-gray-800 py-1">Indesign</p>
+              <p>Text Demo</p>
             </div>
           </div>
         </section>
